@@ -1,0 +1,184 @@
+[
+    {
+        "name": "Braised Pork Rice",
+        "name_zh": "魯肉飯",
+        "description": "A delicious bowl of rice topped with braised pork belly, marinated egg, and vegetables.",
+        "image": "images/braised_pork_rice.png",
+        "category": "traditional"
+    },
+    {
+        "name": "Beef Noodle Soup",
+        "name_zh": "牛肉麵",
+        "description": "A savory soup made with tender beef, hand-pulled noodles, and aromatic spices.",
+        "image": "images/beef_noodle_soup.png",
+        "category": "traditional"
+    },
+    {
+        "name": "Xiao Long Bao",
+        "name_zh": "小籠包",
+        "description": "Steamed soup dumplings with thin wrapper, filled with juicy pork and rich broth.",
+        "image": "images/xiaolongbao.png",
+        "category": "traditional"
+    },
+    {
+        "name": "Gua Bao",
+        "name_zh": "刈包",
+        "description": "A Taiwanese-style pork bun filled with braised pork belly, pickled vegetables, and cilantro.",
+        "image": "images/gua_bao.png",
+        "category": "traditional"
+    },
+    {
+        "name": "Hot Pot",
+        "name_zh": "火鍋",
+        "description": "Various soup bases served with a wide selection of meats, seafood, vegetables, and noodles.",
+        "image": "images/hot_pot.png",
+        "category": "traditional"
+    },
+    {
+        "name": "Turnip Cake",
+        "name_zh": "蘿蔔糕",
+        "description": "Pan-fried radish cake, optionally served with egg.",
+        "image": "images/turnip_cake.png",
+        "category": "traditional"
+    },
+    {
+        "name": "Braised Food",
+        "name_zh": "滷味",
+        "description": "Various braised ingredients with customizable spice level and toppings.",
+        "image": "images/braised_food.png",
+        "category": "traditional"
+    },
+    {
+        "name": "Dumplings",
+        "name_zh": "水餃",
+        "description": "Freshly boiled dumplings filled with tender pork and chives, served with a side of soy-vinegar dipping sauce. Customize with chili oil for extra spice.",
+        "image": "images/dumplings.png",
+        "category": "traditional"
+    },
+    {
+        "name": "Chicken Cutlet",
+        "name_zh": "雞排",
+        "description": "Crispy, juicy fried chicken cutlet with optional seasonings and spice levels.",
+        "image": "images/chicken_cutlet.png",
+        "category": "street"
+    },
+    {
+        "name": "Fried Stinky Tofu",
+        "name_zh": "炸臭豆腐",
+        "description": "Fermented and fried tofu served with Thai-style sauce and pickled vegetables.",
+        "image": "images/fried_stinky_tofu.png",
+        "category": "street"
+    },
+    {
+        "name": "Scallion Pancake",
+        "name_zh": "蔥油餅",
+        "description": "Layered flatbread with scallions, optionally served with egg.",
+        "image": "images/scallion_pancake.png",
+        "category": "street"
+    },
+    {
+        "name": "Sweet Potato Balls",
+        "name_zh": "地瓜球",
+        "description": "Crispy sweet potato balls dusted with powdered sugar.",
+        "image": "images/sweet_potato_balls.png",
+        "category": "street"
+    },
+    {
+        "name": "Taiwanese Fried Chicken",
+        "name_zh": "鹽酥雞",
+        "description": "Crispy fried chicken pieces with special seasoning powder.",
+        "image": "images/fried_chicken.png",
+        "category": "street"
+    },
+    {
+        "name": "Grilled Taiwanese Sausage",
+        "name_zh": "烤香腸",
+        "description": "Grilled Taiwanese pork sausage, optionally served with sticky rice sausage, garlic slices and scallions.",
+        "image": "images/grilled_sausage.png",
+        "category": "street"
+    },
+    {
+        "name": "Milk-based Drinks",
+        "name_zh": "奶類",
+        "description": "Different types of milk tea, including bubble tea, black milk tea, taro milk tea, honey milk tea and more.",
+        "image": "images/milk_based_drink.png",
+        "category": "drinks"
+    },
+    {
+        "name": "Tea-based Drinks",
+        "name_zh": "茶類",
+        "description": "Traditional Taiwanese teas, such as Oolong tea, Finest Mountain Tea, and Green tea, Puer tea, Black tea",
+        "image": "images/tea_based_drinks.png",
+        "category": "drinks"
+    },
+    {
+        "name": "Fruit-based Tea Drinks",
+        "name_zh": "水果茶類",
+        "description": "Refreshing fruit-infused teas like Honey Lemon Tea, Passion Fruit Green Tea, and Kumquat Lemon Juice.",
+        "image": "images/fruit_based_tea.png",
+        "category": "drinks"
+    },
+    {
+        "name": "Wellness Drinks",
+        "name_zh": "養生類",
+        "description": "Health-focused beverages like Longan and Red Date Tea, Goji Berry Tea, and Chrysanthemum Tea.",
+        "image": "images/wellness_drinks.png",
+        "category": "drinks"
+    },
+    {
+        "name": "Shakes / Slushies",
+        "name_zh": "冰沙類",
+        "description": "Icy, fruit-based drinks like Mango Slush, Strawberry Slush, and Kiwi Slush.",
+        "image": "images/shakes_slushies.png",
+        "category": "drinks"
+    },
+    {
+        "name": "Dessert Drinks",
+        "name_zh": "甜品飲品",
+        "description": "Sweet drinks that double as desserts, including Pudding Milk Tea, Red Bean Milk, and Aiyu Jelly.",
+        "image": "images/dessert_drinks.png",
+        "category": "drinks"
+    },
+    {
+        "name": "Taro Balls",
+        "name_zh": "芋圓",
+        "description": "Chewy balls made from taro, served in hot or cold soup.",
+        "image": "images/taro_balls.png",
+        "category": "desserts"
+    },
+    {
+        "name": "Pineapple Cake",
+        "name_zh": "鳳梨酥",
+        "description": "Traditional pastry with buttery crust filled with pineapple jam.",
+        "image": "images/pineapple_cake.png",
+        "category": "desserts"
+    },
+    {
+        "name": "Mango Shaved Ice",
+        "name_zh": "芒果刨冰",
+        "description": "Shaved ice topped with fresh mangoes and condensed milk.",
+        "image": "images/mango_shaved_ice.png",
+        "category": "desserts"
+    },
+    {
+        "name": "Grass Jelly Dessert",
+        "name_zh": "燒仙草",
+        "description": "Hot or cold grass jelly dessert with various toppings.",
+        "image": "images/grass_jelly.png",
+        "category": "desserts"
+    },
+    {
+        "name": "Tofu Pudding",
+        "name_zh": "豆花",
+        "description": "Soft tofu pudding served with various toppings and sweet syrup.",
+        "image": "images/tofu_pudding.png",
+        "category": "desserts"
+    },
+    {
+        "name": "Aiyu Jelly",
+        "name_zh": "愛玉冰",
+        "description": "Cooling summer drink made with aiyu fig seeds jelly.",
+        "image": "images/aiyu_jelly.png",
+        "category": "desserts"
+    }
+]
